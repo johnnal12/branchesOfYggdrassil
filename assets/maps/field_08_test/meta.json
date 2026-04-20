@@ -1,0 +1,15 @@
+{
+  "name": "field_08_test",
+  "prompt": "Monster Hunter style hunting ground, grass plains arena with a rocky cliff on north edge, ancient stone ruins in center, scattered boulders, morning fog, golden hour lighting, fantasy",
+  "model": "marble-1.0-draft",
+  "operation_id": "fabc97d0-8617-4e4b-9594-cf2a69050384",
+  "world_id": null,
+  "started_utc": "2026-04-20T19:18:35.549072Z",
+  "elapsed_seconds": 39.0,
+  "est_credits": 230,
+  "est_usd": 0.184,
+  "downloaded": {
+    "collider.glb": 2152928,
+    "splat_100k.spz": 1249598
+  }
+}

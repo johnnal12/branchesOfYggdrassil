@@ -1,0 +1,20 @@
+{
+  "name": "poring_p1",
+  "reference_image": "/home/john_albesa/game-mvp/assets/concepts/poring_ref.jpg",
+  "task_id": "0c7b528e-3151-418a-9076-297d7d095dab",
+  "image_token": "fc0ad0f8-90a5-4d2b-b55d-1492d22c841f",
+  "settings": {
+    "quality": "standard",
+    "quad": false,
+    "face_limit": 10000,
+    "model_version": "P1-20260311"
+  },
+  "est_credits": 20,
+  "est_usd": 0.2,
+  "started_utc": "2026-04-20T21:13:41.433193+00:00",
+  "elapsed_seconds": 74.8,
+  "downloaded": {
+    "pbr_model.glb": 616460,
+    "preview.png": 15618
+  }
+}

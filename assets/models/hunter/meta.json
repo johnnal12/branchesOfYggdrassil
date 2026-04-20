@@ -1,0 +1,20 @@
+{
+  "name": "hunter",
+  "reference_image": "/home/john_albesa/game-mvp/assets/concepts/hunter_ref.jpg",
+  "task_id": "a2c3541b-df3a-4665-b14c-91222dd2cfda",
+  "image_token": "4518c3d0-4db0-404e-8f78-06d2f96ea3c6",
+  "settings": {
+    "quality": "standard",
+    "quad": false,
+    "face_limit": 10000,
+    "model_version": "P1-20260311"
+  },
+  "est_credits": 20,
+  "est_usd": 0.2,
+  "started_utc": "2026-04-20T21:53:04.330360+00:00",
+  "elapsed_seconds": 75.0,
+  "downloaded": {
+    "pbr_model.glb": 1294308,
+    "preview.png": 27464
+  }
+}

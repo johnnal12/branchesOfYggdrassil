@@ -1,0 +1,20 @@
+{
+  "name": "peco",
+  "reference_image": "/home/john_albesa/game-mvp/assets/concepts/peco_ref.jpg",
+  "task_id": "ed07b559-9ec5-4e4b-9c58-7a6659f0c143",
+  "image_token": "616efe08-6196-4a83-aeb6-7786acdc77b2",
+  "settings": {
+    "quality": "standard",
+    "quad": false,
+    "face_limit": 10000,
+    "model_version": "P1-20260311"
+  },
+  "est_credits": 20,
+  "est_usd": 0.2,
+  "started_utc": "2026-04-20T21:44:48.632062+00:00",
+  "elapsed_seconds": 74.3,
+  "downloaded": {
+    "pbr_model.glb": 1178784,
+    "preview.png": 26762
+  }
+}

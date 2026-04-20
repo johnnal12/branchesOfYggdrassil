@@ -1,0 +1,16 @@
+{
+  "name": "field_08_final",
+  "prompt": "Monster Hunter style hunting ground, grass plains arena roughly 100m wide, rocky cliff formation on north edge with climbable ledges, ancient overgrown stone ruins in center with moss, scattered large boulders, sparse fantasy trees on edges, atmospheric morning fog, warm golden hour lighting, painterly fantasy, low level hunt zone, open ground for combat, Monster Hunter World aesthetic",
+  "model": "marble-1.1",
+  "operation_id": "cfa8adea-3cb8-4728-aabe-a14e63abfd93",
+  "world_id": null,
+  "started_utc": "2026-04-20T20:30:33.414563Z",
+  "elapsed_seconds": 429.9,
+  "est_credits": 1580,
+  "est_usd": 1.264,
+  "downloaded": {
+    "collider.glb": 2988016,
+    "panorama.jpg": 12578293,
+    "splat_100k.spz": 1387521
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "prontera_final",
+  "prompt": "Large medieval fantasy capital city central plaza, ornate carved stone fountain with tall Norse warrior statue at center, cobblestone ground, royal blue and gold banners on poles, cream white limestone buildings with orange terracotta tiled rooftops, Italianate Mediterranean architecture, towering white stone castle with blue conical spires and royal pennants rising in the distance beyond the plaza, Gothic cathedral with stained glass rose window and tall spires on one side, scattered market stalls with striped canopies, merchants, medieval European fantasy RPG aesthetic, warm golden afternoon sunlight, painterly detailed atmospheric, capital of a fantasy kingdom",
+  "model": "marble-1.1",
+  "operation_id": "75a4c46b-c91f-4080-8127-684e63916bcd",
+  "world_id": null,
+  "started_utc": "2026-04-20T19:28:18.457738Z",
+  "elapsed_seconds": 429.0,
+  "est_credits": 1580,
+  "est_usd": 1.264,
+  "downloaded": {
+    "collider.glb": 6546104,
+    "panorama.jpg": 13069375,
+    "splat_100k.spz": 1391839
+  }
+}
