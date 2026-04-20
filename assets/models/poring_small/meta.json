@@ -1,0 +1,13 @@
+{
+  "name": "poring_small",
+  "reference_image": "/home/john_albesa/game-mvp/assets/models/poring_small/source_ref.jpg",
+  "settings": {
+    "quality": "standard",
+    "quad": false,
+    "face_limit": 10000,
+    "model_version": "P1-20260311"
+  },
+  "est_credits": 50,
+  "est_usd": 0.5,
+  "note": "Small Poring variant for stretch-goal swarm enemies. Use this same mesh scaled down ~0.5x in UE5."
+}
