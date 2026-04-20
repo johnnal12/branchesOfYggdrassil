@@ -1,4 +1,4 @@
-# Prontera Hunt
+# Branches of Yggdrassil
 
 A Monster Hunter-style third-person action game set in Ragnarok Online's Prontera. Solo hunter + bow, hunting iconic RO monsters reimagined at MH scale.
 
